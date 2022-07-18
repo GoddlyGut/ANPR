@@ -17,7 +17,6 @@ namespace ANPR.Common
 
         }
 
-
         private static bool isRPHVersionHighEnough()
         {
             return GoddlyGut_Common.DependencyChecker.CheckAssemblyVersion("RAGEPluginHook.exe", "RAGE Plugin Hook", RequiredFileInfo.RequiredRPHVersion);
