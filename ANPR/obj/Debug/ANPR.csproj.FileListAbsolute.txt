@@ -1,0 +1,12 @@
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/ANPR.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/ANPR.pdb
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/GoddlyGut-Common.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/LSPD First Response.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/RagePluginHookSDK.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/StopThePed.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/bin/Debug/GoddlyGut-Common.pdb
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/obj/Debug/ANPR.csproj.AssemblyReference.cache
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/obj/Debug/ANPR.csproj.CoreCompileInputs.cache
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/obj/Debug/ANPR.csproj.CopyComplete
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/obj/Debug/ANPR.dll
+/Users/arireitman/Documents/GitHub/ANPR/ANPR/obj/Debug/ANPR.pdb

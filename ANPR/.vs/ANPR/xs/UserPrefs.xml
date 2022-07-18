@@ -1,17 +1,16 @@
 ﻿<Properties>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Common/CheckConflicts.cs">
     <Files>
-      <File FileName="Class1.cs" Line="5" Column="30" />
+      <File FileName="Class1.cs" Line="10" Column="6" />
+      <File FileName="Common/DependencyChecker.cs" Line="9" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ANPR" expanded="True">
             <Node name="ANPR" expanded="True">
-              <Node name="Class1.cs" selected="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Common" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,6 +20,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
