@@ -13,6 +13,7 @@ namespace ANPR.Common
         internal static string PluginVersion = FileVersion.FileVersion;
 
         internal static bool isPlayerOnDuty = false;
+        internal static bool isANPRActive = false;
     }
 }
 
