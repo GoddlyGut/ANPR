@@ -65,6 +65,7 @@
     <Compile Include="Common\GlobalVariables.cs" />
     <Compile Include="Common\RequiredFileInfo.cs" />
     <Compile Include="Core\Driver.cs" />
+    <Compile Include="Core\ANPR.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\" />
