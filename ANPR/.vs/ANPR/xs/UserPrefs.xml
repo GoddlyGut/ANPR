@@ -4,13 +4,14 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Driver.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/ANPR.cs">
     <Files>
       <File FileName="Common/CheckConflicts.cs" Line="9" Column="17" />
       <File FileName="Common/GlobalVariables.cs" Line="16" Column="51" />
       <File FileName="Common/RequiredFileInfo.cs" Line="4" Column="20" />
-      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="27" Column="30" />
       <File FileName="Core/Driver.cs" Line="20" Column="1" />
+      <File FileName="Core/ANPR.cs" Line="4" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
