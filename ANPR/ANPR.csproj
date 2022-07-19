@@ -64,9 +64,11 @@
     <Compile Include="Common\CheckConflicts.cs" />
     <Compile Include="Common\GlobalVariables.cs" />
     <Compile Include="Common\RequiredFileInfo.cs" />
+    <Compile Include="Core\Driver.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\" />
+    <Folder Include="Core\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
  </Project>
