@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using Rage;
 
 namespace ANPR.Common
 {
@@ -12,8 +13,11 @@ namespace ANPR.Common
         internal static string PluginName = FileVersion.ProductName.ToString();
         internal static string PluginVersion = FileVersion.FileVersion;
 
-        internal static bool isPlayerOnDuty = false;
+        internal static bool isPlayerOnDuty { get; set; } = false;
         internal static bool isANPRActive = false;
+
+        internal static Ped PlayerPed { get { return Game.LocalPlayer.Character; } }
+        internal static Vehicle PlayerVehicle { get { return GlobalVariables.PlayerPed.CurrentVehicle; } }
     }
 }
 

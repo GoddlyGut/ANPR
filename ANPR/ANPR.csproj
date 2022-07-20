@@ -57,6 +57,7 @@
     <Reference Include="StopThePed">
       <HintPath>..\..\..\..\Desktop\StopThePed.dll</HintPath>
     </Reference>
+    <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="Common\RequiredFileInfo.cs" />
     <Compile Include="Core\Driver.cs" />
     <Compile Include="Core\ANPR.cs" />
+    <Compile Include="Core\AudioHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\" />

@@ -5,6 +5,7 @@ namespace ANPR.Common
     {
         internal const string RequiredRPHVersion = "1.87.1293.16189";
         internal const string RequiredLSPDFRVersion = "0.4.7";
+        internal const string RequiredGoddlyGutCommonVersion = "0.0.0";
     }
 }
 

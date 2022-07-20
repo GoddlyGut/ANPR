@@ -1,25 +1,30 @@
 ﻿<Properties>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/ANPR.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Driver.cs">
     <Files>
-      <File FileName="Common/CheckConflicts.cs" Line="9" Column="17" />
-      <File FileName="Common/GlobalVariables.cs" Line="16" Column="51" />
-      <File FileName="Common/RequiredFileInfo.cs" Line="4" Column="20" />
+      <File FileName="Common/CheckConflicts.cs" Line="7" Column="15" />
+      <File FileName="Common/GlobalVariables.cs" Line="16" Column="52" />
+      <File FileName="Common/RequiredFileInfo.cs" Line="8" Column="70" />
       <File FileName="Main.cs" Line="27" Column="30" />
-      <File FileName="Core/Driver.cs" Line="20" Column="1" />
-      <File FileName="Core/ANPR.cs" Line="4" Column="12" />
+      <File FileName="Core/ANPR.cs" Line="9" Column="6" />
+      <File FileName="Core/AudioHandler.cs" Line="2" Column="18" />
+      <File FileName="Core/Driver.cs" Line="54" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ANPR" expanded="True">
             <Node name="ANPR" expanded="True">
+              <Node name="References" expanded="True" />
               <Node name="Common" expanded="True" />
-              <Node name="Core" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="Driver.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -29,5 +34,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
